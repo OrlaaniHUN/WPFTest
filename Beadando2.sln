@@ -5,8 +5,6 @@ VisualStudioVersion = 17.12.35506.116 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beadando2", "Beadando2.csproj", "{4D3D28FC-FE27-4882-84C1-B5629E597910}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel", "..\ViewModel\ViewModel.csproj", "{B0E0876D-F69E-4B30-8D1F-6D13E892C4D1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{4D3D28FC-FE27-4882-84C1-B5629E597910}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D3D28FC-FE27-4882-84C1-B5629E597910}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D3D28FC-FE27-4882-84C1-B5629E597910}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B0E0876D-F69E-4B30-8D1F-6D13E892C4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B0E0876D-F69E-4B30-8D1F-6D13E892C4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B0E0876D-F69E-4B30-8D1F-6D13E892C4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B0E0876D-F69E-4B30-8D1F-6D13E892C4D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
